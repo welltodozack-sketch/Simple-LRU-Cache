@@ -1,2 +1,6 @@
-# Simple-LRU-Cache
-I've been playing around with all types of algorithms, but the Least Recently Used (LRU) algorithm caught my attention. I decided to write my own, using the LRU Cache - Complete Tutorial from geeksforgeeks. Link can be found in the README!
+# Simple LRU Cache
+As the name suggests, this is a simple LRU algorithm written in c++. I dont have much to add to this, other than do what you want with the code,
+any improvement or optimization tips would be appreciated.
+
+# Sources
+As written in the description, here is the link to the reference webpage I used: https://www.geeksforgeeks.org/system-design/lru-cache-implementation/
